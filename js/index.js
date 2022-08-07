@@ -1,5 +1,4 @@
 function text_box() {
-    const button = document.querySelector("button");
     const container = document.querySelector(".container");
     const container_top = container.getBoundingClientRect().top;
     const container_bottom = container.getBoundingClientRect().bottom;
